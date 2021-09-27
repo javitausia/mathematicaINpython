@@ -2,11 +2,11 @@ name: mateTOpy
 channels:
   - defaults
   - conda-forge
+  - anaconda
 dependencies:
   - python
   - numpy
-  - pandas
-  - xarray
-  - netcdf4
   - matplotlib
   - notebook
+  - sympy
+  - rise
