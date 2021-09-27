@@ -1,0 +1,12 @@
+name: mateTOpy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - matplotlib
+  - notebook
