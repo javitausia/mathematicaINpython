@@ -8,4 +8,8 @@ More notebooks will be added, but for now, the horizontal and vertical velocitie
 
 ![pot](media/potencial.gif)
 
+Moreover, we can see the wave propagation due to a breakwater:
+
+![wave](media/wave_propagation.png)
+
 TODO: add notebooks / src folders...
